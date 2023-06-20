@@ -1,0 +1,38 @@
+[
+ {
+  "directory": "/home/csrohit/code/ray-tracing/collection",
+  "arguments": [
+   "g++",
+   "-c",
+   "-o",
+   "build/src/main.o",
+   "src/main.cpp",
+   "-Iinc"
+  ],
+  "file": "src/main.cpp"
+ },
+ {
+  "directory": "/home/csrohit/code/ray-tracing/collection",
+  "arguments": [
+   "g++",
+   "-c",
+   "-o",
+   "build/src/hittable-collection.o",
+   "src/hittable-collection.cpp",
+   "-Iinc"
+  ],
+  "file": "src/hittable-collection.cpp"
+ },
+ {
+  "directory": "/home/csrohit/code/ray-tracing/collection",
+  "arguments": [
+   "g++",
+   "-c",
+   "-o",
+   "build/src/sphere.o",
+   "src/sphere.cpp",
+   "-Iinc"
+  ],
+  "file": "src/sphere.cpp"
+ }
+]
